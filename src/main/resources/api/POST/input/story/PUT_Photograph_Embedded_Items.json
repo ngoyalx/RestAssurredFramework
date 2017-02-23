@@ -1,0 +1,15 @@
+{
+  "content_item": 
+{
+    "title": "Test Story for test automation. DO NOT delete/ update this content item.",
+    "content_item_state_code": "working",
+    "source_name": "The Morning Call",
+    "source_code": "morningcall",
+    "content_item_type_code": "story",
+    "product_affiliate_code": "allnews",
+    "thumbnail": "http://www.trbimg.tribstage.com/img-54c2216e/turbine/chi-test-cutline-photograph-20150123/600",
+ "thumbnail_source_code": "bcpnews",
+ "alt_thumbnail": "http://www.trbimg.tribstage.com/img-54c2216e/turbine/chi-test-cutline-photograph-20150123/600",
+ "alt_thumbnail_source_code": "bcpnews"
+  }
+}

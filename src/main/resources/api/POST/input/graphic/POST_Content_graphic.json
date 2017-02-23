@@ -1,0 +1,14 @@
+{
+  "content_item": 
+{
+    "title": "Test graphic for test automation",
+    "content_item_state_code": "live",
+    "source_name": "Los Angeles Times",
+    "source_code": "latimes",
+    "content_item_type_code": "graphic",
+    "product_affiliate_code": "lanews",
+    "filename": "http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg",
+    "caption": "This is a test caption added here",
+    "credit": "Test credit"
+}
+}

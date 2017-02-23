@@ -1,0 +1,17 @@
+{
+  "content_item": 
+{
+    "title": "Test Photograph title test automation. DO NOT update/ delete this content item",
+    "content_item_state_code": "working",
+    "source_name": "Chicago Tribune",
+    "source_code": "chicagotribune",
+    "content_item_type_code": "photo",
+    "product_affiliate_code": "chinews",
+    "filename": "https://static.pexels.com/photos/6555/nature-sunset-person-woman.jpg",
+    "caption": "<h4>This is a test image used in the &copy;Photograph <strong>content item</strong> for test automation. &reg;We have added a sample test photo to check &nbsp; &nbsp; if the posted content item is working through <big>REST API</big> or not. DO NOT update &amp; delete this content item</h4>", 
+     "thumbnail": "https://static.pexels.com/photos/6555/nature-sunset-person-woman.jpg", 
+      "alt_thumbnail": "http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg"
+   
+  }
+}
+

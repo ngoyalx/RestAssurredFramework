@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="10" name="Failed suite [Parallel Tests]" parallel="tests" allow-return-values="true">
+  <test name="Rest(failed)" parallel="tests">
+    <classes>
+      <class name="com.RestAssurred">
+        <methods>
+          <include name="apitest" invocation-numbers="0 1 2 3 4 5"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.RestAssurred -->
+    </classes>
+  </test> <!-- Rest(failed) -->
+</suite> <!-- Failed suite [Parallel Tests] -->

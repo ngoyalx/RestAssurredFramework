@@ -1,0 +1,16 @@
+{
+  "content_item": 
+{
+    "title": "Test Story for test automation. DO NOT delete/ update this content item.",
+    "content_item_state_code": "working",
+    "source_name": "Baltimore City Paper",
+    "source_code": "bcpnews",
+    "content_item_type_code": "story",
+    "product_affiliate_code": "chinews",
+    "thumbnail": "http://www.trbimg.tribstage.com/img-5773db9c/turbine/tca-abc2-news-good-morning-maryland-20160629",
+    "thumbnail_source_code": "daily-press",
+    "alt_thumbnail": "http://www.trbimg.tribstage.com/img-5773db9c/turbine/tca-abc2-news-good-morning-maryland-20160629",
+    "alt_thumbnail_source_code": "daily-press"
+
+  }
+}

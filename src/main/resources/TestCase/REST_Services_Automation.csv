@@ -1,0 +1,7 @@
+testcase_id,Step,stepaction,data
+POST_Content_HTMLPage3,User sends a POST request,postRequest,/content_items.json#POST#html_page#POST_Content_HTMLPage3.json#201
+,User sends a get request,getRequest,/content_items/#200
+,User sends a delete request,deleteRequest,/content_items/#200
+POST_Content_PhotoGallery3,User sends a POST request,postRequest,/content_items.json#POST#photo_gallery#POST_Content_PhotoGallery3.json#201
+,User sends a get request,getRequest,/content_items/#200
+,User sends a delete request,deleteRequest,/content_items/#200

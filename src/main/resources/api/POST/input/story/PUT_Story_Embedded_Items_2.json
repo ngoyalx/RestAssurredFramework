@@ -1,0 +1,15 @@
+{
+  "content_item": 
+{
+    "title": "Test Story for test automation. DO NOT delete/ update this content item.",
+    "content_item_state_code": "working",
+    "source_name": "Daily Press",
+    "source_code": "daily-press",
+    "content_item_type_code": "story",
+    "product_affiliate_code": "hrnews",
+    "thumbnail": "http://www.trbimg.tribstage.com/img-54a41bbf/turbine/chi-photograph-20141231/400/16x9",
+ "thumbnail_source_code": "sunsentinel",
+ "alt_thumbnail": "http://www.trbimg.tribstage.com/img-54a41bbf/turbine/chi-photograph-20141231/400/16x9",
+ "alt_thumbnail_source_code": "sunsentinel"
+  }
+}

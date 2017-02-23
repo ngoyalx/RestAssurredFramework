@@ -1,0 +1,18 @@
+{
+  "content_item": 
+{
+    "title": "Test Premium Video for test automation. DO NOT update/ delete this content item",
+    "content_item_state_code": "live",
+    "source_name": "Carroll County Times",
+    "source_code": "cctnews",
+    "content_item_type_code": "premiumvideo",
+    "product_affiliate_code": "cctnews",
+    "short_description": "This is a test video added for test automation. DO NOT update/ delete this content item",
+    "classification": "Technology",
+    "original_video_url": "https://www.youtube.com/watch?v=cskYRDuZIes",
+    "original_thumbnail_url": "https://www.tronc.com/tronc-logo.png",
+	"thumbnail_source_code": "orlandosentinel",
+	"alt_thumbnail_source_code": "orlandosentinel"
+
+}
+}

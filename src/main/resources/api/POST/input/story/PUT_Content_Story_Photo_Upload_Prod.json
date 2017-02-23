@@ -1,0 +1,16 @@
+{
+  "content_item": 
+{
+    "title": "Test Story for test automation. DO NOT delete/ update this content item.",
+    "content_item_state_code": "working",
+    "source_name": "Orlando Sentinel",
+    "source_code": "orlandosentinel",
+    "content_item_type_code": "story",
+    "product_affiliate_code": "orlnews",
+   "thumbnail": "http://www.trbimg.com/img-585bf872/turbine/tsn-vsl-photo-gallery-2016-winter-concert-feat-008",
+    "thumbnail_source_code": "redeye",
+    "alt_thumbnail": "http://www.trbimg.com/img-585bf872/turbine/tsn-vsl-photo-gallery-2016-winter-concert-feat-008",
+    "alt_thumbnail_source_code": "redeye"
+
+  }
+}

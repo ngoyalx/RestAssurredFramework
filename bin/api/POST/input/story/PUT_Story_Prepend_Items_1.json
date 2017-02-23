@@ -1,0 +1,14 @@
+{
+  "content_item": 
+{
+    "title": "Test Story for test automation. DO NOT delete/ update this content item.",
+    "content_item_state_code": "live",
+    "source_name": "The Morning Call",
+    "source_code": "morningcall",
+    "content_item_type_code": "story",
+    "product_affiliate_code": "allnews",
+    "original_thumbnail_url": "https://www.tronc.com/tronc-logo.png",
+ 	"thumbnail_source_code": "orlandosentinel",
+	 "alt_thumbnail_source_code": "orlandosentinel"
+  }
+}

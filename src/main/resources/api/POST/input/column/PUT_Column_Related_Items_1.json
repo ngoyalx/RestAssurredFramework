@@ -1,0 +1,34 @@
+{
+  "content_item": 
+{
+    "title": "Test column title for test automation. DO NOT update/ delete this content item",
+    "content_item_state_code": "working",
+    "source_name": "Hartford Courant",
+    "source_code": "courant",
+    "content_item_type_code": "column",
+    "product_affiliate_code": "hartnews",
+    "kicker_id": 2164, 
+    "byline": "Rishikesh Joshi",
+    "titleline": "This is a simple titleline created for column. DO NOT update/ delete this content item",
+    "dateline": "Test date",
+    "deckheadline": "This is a test column deck headline added here. DO NOT update/ delete this content item",
+    "body": "This is a body text added here for column content item. DO NOT update/ delete this content item",
+    "subheadline": "Here is the subheadline text added for the column. DO NOT update/ delete this content item",
+    "altheadline": "This is the alterative headline for the title line. DO NOT update/ delete this content item",
+    "seotitle": "This is the SEO Title for the Column",
+    "seodescription": "This is the SEO meta description added here for column",
+    "seo_redirect_url": "http://www.google.com",
+     "notes": "This is the Content Properties notes added here. DO NOT update/ delete this content item",
+     "canonical_url": "http://www.yahoo.com/",
+     "keywords": "Content, properties, keyword, sample, test, columnist, automation, column",
+     "seo_keyphrase": "This is the SEO keyword added for column",
+      "display_time": "2026-04-01T04:40:38Z",
+      "publish_time": "2026-05-02T04:40:38Z",
+      "expire_time": "2026-05-31T04:40:38Z",
+     "thumbnail": "http://www.trbimg.tribstage.com/img-5773db9c/turbine/tca-abc2-news-good-morning-maryland-20160629",
+    "thumbnail_source_code": "ctnow",
+    "alt_thumbnail": "http://www.trbimg.tribstage.com/img-5773db9c/turbine/tca-abc2-news-good-morning-maryland-20160629",
+    "alt_thumbnail_source_code": "ctnow"
+
+     }
+}

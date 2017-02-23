@@ -1,0 +1,22 @@
+{
+  "content_item": 
+{
+    "title": "Test Graphic title for test automation. DO NOT update/ delete this content item",
+    "content_item_state_code": "live",
+    "source_name": "Los Angeles Times",
+    "source_code": "latimes",
+    "content_item_type_code": "graphic",
+    "product_affiliate_code": "lanews",
+    "kicker_id": 664, 
+    "notes": "This is the Content Properties notes added here",
+    "keywords": "Content, properties, keyword, HTML, page, graphic, automation, hyperlink",
+    "display_time": "2016-03-18T04:40:38Z",
+    "publish_time": "2016-03-18T04:40:38Z",
+    "expire_time": "2016-04-02T04:40:38Z",
+    "thumbnail": "https://static.pexels.com/photos/6555/nature-sunset-person-woman.jpg", 
+    "alt_thumbnail": "https://static.pexels.com/photos/6555/nature-sunset-person-woman.jpg",
+    "filename": "https://static.pexels.com/photos/6555/nature-sunset-person-woman.jpg",
+    "caption": "This is a test caption used for the Graphic content item. DO NOT update/ delete this content item",
+    "credit": "Rishikesh S. Joshi"
+    }
+ }

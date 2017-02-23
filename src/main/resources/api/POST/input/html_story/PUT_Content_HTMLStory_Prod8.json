@@ -1,0 +1,15 @@
+{
+  "content_item": 
+{
+    "title": "HTML Story for automation. DO NOT delete/ update this test content item.",
+    "content_item_state_code": "working",
+    "source_name": "Hartford Courant",
+    "source_code": "courant",
+    "content_item_type_code": "htmlstory",
+    "product_affiliate_code": "hartnews",
+      "custom_param_data": 
+     {
+        "test123": "001"
+     }
+ }
+}

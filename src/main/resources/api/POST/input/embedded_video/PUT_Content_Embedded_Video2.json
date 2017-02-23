@@ -1,0 +1,18 @@
+{
+  "content_item": 
+   { 
+    "title": "Test Embedded Video for test automation. DO NOT delete/ update this content item",
+    "content_item_state_code": "working",
+    "source_name": "Los Angeles Times",
+    "source_code": "latimes",
+    "content_item_type_code": "embeddedvideo",
+    "product_affiliate_code": "hrnews",
+    "caption": "<h4>Test caption written here for <strong>Embedded Video</strong>. <em>DO NOT</em> delete &amp;update this content item</h4>. <p>This is <sub>subscripted</sub> text.</p>&copy; &nbsp;Test text added here!",
+    "embedded_video_provider_id": 4, 
+    "video_code": "xbnCmRPDx5s",
+    "thumbnail": "http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg", 
+   "alt_thumbnail": "http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg"
+   }
+ }   
+
+

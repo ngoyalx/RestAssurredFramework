@@ -1,0 +1,22 @@
+{
+  "content_item": 
+{
+    "title": "Test Photo Gallery title for test automation. DO NOT delete/ update this test content item.",
+    "content_item_state_code": "working",
+    "source_name": "Hartford Courant",
+    "source_code": "courant",
+    "content_item_type_code": "photogallery",
+    "product_affiliate_code": "hartnews",
+    "premium_settings":
+        [
+            {
+                "product_affiliate_code": "hartnews",
+                "dss_override_level_code": "register"
+            }
+        ],
+  "thumbnail": "http://www.trbimg.tribstage.com/img-5773db9c/turbine/tca-abc2-news-good-morning-maryland-20160629",
+  "thumbnail_source_code": "latimes",
+  "alt_thumbnail": "http://www.trbimg.tribstage.com/img-5773db9c/turbine/tca-abc2-news-good-morning-maryland-20160629",
+  "alt_thumbnail_source_code": "chicagotribune"
+  }
+}

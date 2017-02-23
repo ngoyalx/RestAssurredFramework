@@ -1,0 +1,16 @@
+{
+  "content_item": 
+  { 
+   "title": "Test Premium Video for test automation. DO NOT update/ delete this content item",
+  "content_item_state_code": "live",
+   "source_name": "Baltimore Sun",
+   "source_code": "baltimoresun",
+   "content_item_type_code": "premiumvideo",
+   "product_affiliate_code": "balnews",
+   "original_video_url": "https://www.youtube.com/watch?v=i0Q3yk7KzYA",
+   "short_description": "<h4>This is a test image used in the &copy;<big>Premium Video</big> <strong>content item</strong> for test automation. &reg;<br />. We have added a sample test photo to check &nbsp; &nbsp; if the posted content item is working via <big>REST API</big> or not. DO NOT update &amp; delete this content item</h4>",
+    "classification": "Technology",
+    "thumbnail": "http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg", 
+   "alt_thumbnail": "http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg"
+   }
+}

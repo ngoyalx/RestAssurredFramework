@@ -1,0 +1,12 @@
+{
+    "content_item":
+    {
+        "content_item_type_code" : "htmlstory",
+        "content_item_state_code" : "live",
+        "source_code" : "chicagotribune",
+        "product_affiliate_code" : "chinews",
+        "title" : "Test CS 651 HTML Story 004",
+        "body" : "Thats a magic sock. Use only curly quotes for testing purpose  "
+    }
+}
+

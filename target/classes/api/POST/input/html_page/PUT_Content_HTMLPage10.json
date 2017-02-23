@@ -1,0 +1,21 @@
+{
+  "content_item": 
+{
+    "title": "Test HTML page title test automation. DO NOT update/ delete this content item",
+    "content_item_state_code": "working",
+    "source_name": "South Florida Sun-Sentinel",
+    "source_code": "sunsentinel",
+    "content_item_type_code": "htmlpage",
+    "product_affiliate_code": "lanews",
+    "kicker_id": 1928, 
+    "body": "This is a body text added here for HTML page.The text added here is for test automation only. DO NOT update/ delete this content item",
+    "notes": "This is the Content Properties notes added here",
+    "keywords": "Content, properties, keyword, HTML, page, keyword, automation, story",
+    "display_time": "2030-04-16T04:40:38Z",
+    "publish_time": "2030-05-02T04:40:38Z",
+    "expire_time": "2030-05-31T04:40:38Z",
+    "thumbnail": "http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg", 
+    "alt_thumbnail": "http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg",
+    "exclusivity": 1
+  }
+}

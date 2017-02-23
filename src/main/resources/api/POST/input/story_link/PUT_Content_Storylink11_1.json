@@ -1,0 +1,22 @@
+{
+  "content_item": 
+{
+    "title": "Test Story Link title for test automation. DO NOT update/ delete this content item",
+     "content_item_state_code": "live",
+    "source_name": "The Morning Call",
+    "source_code": "morningcall",
+    "content_item_type_code": "storylink",
+    "product_affiliate_code": "lanews",
+    "kicker_id": 664, 
+    "notes": "This is the Content Properties notes added here",
+    "keywords": "Content, properties, keyword, HTML, page, keyword, automation, story",
+    "display_time": "2013-04-01T04:40:38Z",
+    "publish_time": "2013-04-01T04:40:38Z",
+    "expire_time": "2013-04-30T04:40:38Z",
+    "thumbnail": "http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg", 
+    "alt_thumbnail": "http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg",
+    "byline": "Rishikesh Joshi",
+    "target": "_blank",
+    "url": "http://leavingcertenglish.net/2016/01/lears-journey/"
+  }
+}

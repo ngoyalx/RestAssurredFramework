@@ -1,0 +1,14 @@
+{
+  "content_item": 
+{
+    "title": "Test Premium Video Playlist for test automation",
+    "content_item_state_code": "live",
+    "source_name": "Los Angeles Times",
+    "source_code": "latimes",
+    "content_item_type_code": "premiumvideoplaylist",
+    "product_affiliate_code": "lanews",
+    "credit": "Test Credit",
+    "classification": "Technology",
+    "playlist_type": "EXPLICIT"
+}
+}

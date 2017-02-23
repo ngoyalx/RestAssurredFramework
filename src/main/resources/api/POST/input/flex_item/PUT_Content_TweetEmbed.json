@@ -1,0 +1,37 @@
+{
+  "content_item": 
+   { 
+    "title": "Test Tweet Embed title for test automation. DO NOT delete/ update this content item",
+    "content_item_state_code": "working",
+    "source_name": "Los Angeles Times",
+    "source_code": "latimes",
+    "content_item_type_code": "twitter",
+    "product_affiliate_code": "lanews",
+     "publish_time": "2030-05-02T04:40:38Z",
+   "display_time": "2016-04-16T04:40:38Z",
+    "expire_time": "2030-05-31T04:40:38Z",
+    "custom_param_data": 
+    {
+        "test123":"Embedded Video content item - 001",
+        "enable-content-commenting": "false",
+        "links-to-blog": "false",
+        "newsletter-disable-on-article": "true",
+        "Story Gallery": "Sample text for test automation",
+        "test-custom-parameter": "Title text for TweetEmbed content Item.",
+        "new-test-custom-parameter": "true", 
+        "canonical-override-url": "http://www.msn.com",
+        "test-date-custom-param": "2016-12-30T21:43:00Z"
+      
+    },    
+     "notes": "This is the Content Properties notes added here for TweetEmbed.",
+    "canonical_url": "http://google.com/",
+    "keywords":  "Content, properties, keyword, sample, test, twitter, Embed",
+    "seo_keyphrase": "This is the SEO keyword added for TweetEmbed",
+    "thumbnail": "http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg", 
+   "alt_thumbnail": "http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg"
+   }
+ }   
+
+ 
+
+

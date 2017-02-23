@@ -1,0 +1,13 @@
+{
+  "content_item": 
+{
+    "title": "Test Premium Video Stream for test automation. DO NOT delete/ update this test content item.",
+    "content_item_state_code": "live",
+    "source_name": "Chicago Tribune",
+    "source_code": "chicagotribune",
+    "content_item_type_code": "premiumvideostream",
+    "product_affiliate_code": "lanews",
+     "short_description": "This is the short description for the Premium Video Stream",
+     "economics": "FREE"
+    }
+}

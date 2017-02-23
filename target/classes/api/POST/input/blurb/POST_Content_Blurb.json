@@ -1,0 +1,12 @@
+{
+  "content_item": 
+{
+    "title": "Test hyperlink text for test automation",
+    "content_item_state_code": "live",
+    "source_name": "Los Angeles Times",
+    "source_code": "latimes",
+    "content_item_type_code": "blurb",
+    "product_affiliate_code": "lanews",
+    "credit": "Test credit"
+}
+}

@@ -1,0 +1,22 @@
+{
+  "content_item": 
+{
+    "title": "HTML Story for automation. DO NOT delete/ update this test content item.",
+    "content_item_state_code": "working",
+    "source_name": "Orlando Sentinel",
+    "source_code": "orlandosentinel",
+    "content_item_type_code": "htmlstory",
+    "product_affiliate_code": "orlnews",
+    "photo_upload":
+     {
+        "thumbnail":
+          {
+          "url":"https://static.pexels.com/photos/3247/nature-forest-industry-rails.jpg"
+        },
+        "alt_thumbnail":
+         {
+          "url":"https://static.pexels.com/photos/3247/nature-forest-industry-rails.jpg"
+         }
+      }
+    }
+}

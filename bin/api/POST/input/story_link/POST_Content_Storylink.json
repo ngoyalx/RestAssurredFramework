@@ -1,0 +1,13 @@
+{
+  "content_item": 
+{
+    "title": "Test Story Link for test automation",
+    "content_item_state_code": "live",
+    "source_name": "Los Angeles Times",
+    "source_code": "latimes",
+    "content_item_type_code": "storylink",
+    "product_affiliate_code": "lanews",
+    "url":"http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg",
+    "target": "_blank"    
+}
+}

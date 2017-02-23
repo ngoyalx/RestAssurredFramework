@@ -1,0 +1,24 @@
+{
+  "content_item": 
+   { 
+    "title": "Test Premium Video Stream for test automation. DO NOT update/ delete this content item",
+     "content_item_state_code": "working",
+    "source_name": "Daily Press",
+    "source_code": "daily-press",
+    "content_item_type_code": "premiumvideostream",
+    "product_affiliate_code": "hrnews",
+    "short_description": "Test short description for Premium Video Stream. DO NOT update/ delete this content item",
+    "credit": "Rishikesh S. Joshi",
+   "publish_time": "2030-05-02T04:40:38Z",
+   "display_time": "2020-04-16T04:40:38Z",
+    "expire_time": "2030-05-31T04:40:38Z",
+    "prodaff_stream_source_id": 16079,
+    "notes": "This is the Content Properties notes added here for Premium Video Stream",
+    "keywords":  "Content, properties, keyword, sample, test, premium, video, stream",
+    "thumbnail": "http://www.trbimg.tribstage.com/img-5773db9c/turbine/tca-abc2-news-good-morning-maryland-20160629",
+    "thumbnail_source_code": "ctnow",
+    "alt_thumbnail": "http://www.trbimg.tribstage.com/img-5773db9c/turbine/tca-abc2-news-good-morning-maryland-20160629",
+    "alt_thumbnail_source_code": "ctnow"
+
+   }
+ }

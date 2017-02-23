@@ -1,0 +1,32 @@
+{
+  "content_item": 
+{
+    "title": "Test story title test automation. DO NOT update/ delete this content item ",
+    "content_item_state_code": "live",
+    "source_name": "Los Angeles Times",
+   "source_code": "latimes",
+     "kicker_id": 664,
+    "content_item_type_code": "story",
+    "product_affiliate_code": "lanews",
+    "byline": "Rishikesh Joshi " ,
+    "exclusivity": 1,
+    "titleline": "This is a simple titleline created",
+    "dateline": "Test date",
+    "deckheadline": "This is a test story deck headline added here. DO NOT update/ delete this content item ",
+    "body": "This is a body text added here. DO NOT update/ delete this content item ",
+    "subheadline": "Here is the subheadline text added for the story. DO NOT update/ delete this content item ",
+    "altheadline": "This is the alterative headline for the title line. DO NOT update/ delete this content item ",
+    "seotitle": "This is the SEO Title for the Story",
+    "seodescription": "This is the SEO meta description added here",
+    "seo_redirect_url": "http://www.google.com",
+     "notes": "This is the Content Properties notes added here",
+    "canonical_url": "http://www.yahoo.com",
+    "keywords":  "Content, properties, keyword, sample, test, columnist, automation, column",
+    "seo_keyphrase": "This is the SEO keyword added for story",
+    "display_time": "2016-03-18T04:40:38Z",
+     "publish_time": "2016-03-18T04:40:38Z",
+     "expire_time": "2016-03-31T04:40:38Z",
+     "thumbnail": "http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg", 
+     "alt_thumbnail": "http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg" 
+}
+}

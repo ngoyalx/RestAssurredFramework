@@ -1,0 +1,24 @@
+{
+  "content_item": 
+{
+    "title": "Test Graphic title for test automation. DO NOT update/ delete this content item",
+    "content_item_state_code": "working",
+    "source_name": "South Florida Sun-Sentinel",
+    "source_code": "sunsentinel",
+    "content_item_type_code": "graphic",
+    "product_affiliate_code": "sfl",
+    "kicker_id": 3918, 
+    "notes": "This is the Content Properties notes added here",
+    "keywords": "Content, properties, keyword, HTML, page, graphic, automation, hyperlink",
+    "display_time": "2023-04-01T04:40:38Z",
+    "publish_time": "2023-04-01T04:40:38Z",
+    "expire_time": "2023-04-30T04:40:38Z",
+    "thumbnail": "http://www.trbimg.tribstage.com/img-54c2216e/turbine/chi-test-cutline-photograph-20150123/600",
+ "thumbnail_source_code": "bcpnews",
+ "alt_thumbnail": "http://www.trbimg.tribstage.com/img-54c2216e/turbine/chi-test-cutline-photograph-20150123/600",
+ "alt_thumbnail_source_code": "bcpnews",
+    "filename": "https://static.pexels.com/photos/6555/nature-sunset-person-woman.jpg",
+    "caption": "This is a test caption used for the Graphic content item. DO NOT update/ delete this content item",
+    "credit": "Rishikesh S. Joshi"
+    }
+ }

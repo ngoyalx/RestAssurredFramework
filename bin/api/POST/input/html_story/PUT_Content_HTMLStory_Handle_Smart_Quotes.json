@@ -1,0 +1,11 @@
+{
+    "content_item":
+    {
+        "content_item_type_code" : "htmlstory",
+        "content_item_state_code" : "working",
+        "source_code" : "orlandosentinel",
+        "product_affiliate_code" : "orlnews",
+        "title" : "Test CS 651 HTML Story 004",
+        "body" : "\"That’s \"a\" ‘magic’ sock.\" Use \"only\" \"curly\" \"quotes\" \"for\" \"testing\" \"purpose\""
+    }
+}

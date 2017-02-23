@@ -1,0 +1,34 @@
+{
+  "content_item": 
+{
+    "title": "Test Story Link title for test automation. DO NOT update/ delete this content item",
+     "content_item_state_code": "working",
+    "source_name": "The Morning Call",
+    "source_code": "morningcall",
+    "content_item_type_code": "storylink",
+    "product_affiliate_code": "hartnews",
+    "notes": "This is the Content Properties notes added here",
+    "keywords": "Content, properties, keyword, HTML, page, keyword, automation, story",
+    "display_time": "2026-04-01T04:40:38Z",
+    "publish_time": "2026-04-01T04:40:38Z",
+    "expire_time": "2030-04-30T04:40:38Z",
+    "thumbnail": "https://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg", 
+    "alt_thumbnail": "https://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg",
+    "byline": "Rishikesh Joshi",
+    "target": "_blank",
+    "url": "https://leavingcertenglish.net/2016/01/lears-journey/",
+    "photo_upload":
+     {
+        "thumbnail":
+          {
+          "url":"https://www.wallpapereast.com/static/images/6904658-3d-nature-wallpaper.jpg",
+          "source_code": "daily-press"
+        },
+        "alt_thumbnail":
+         {
+          "url":"https://www.wallpapereast.com/static/images/6904658-3d-nature-wallpaper.jpg",
+          "source_code": "daily-press"
+         }
+      }
+  }
+}

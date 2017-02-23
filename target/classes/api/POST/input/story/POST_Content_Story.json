@@ -1,0 +1,11 @@
+{
+  "content_item": 
+{
+    "title": "Test Story",
+    "content_item_state_code": "live",
+    "source_name": "Los Angeles Times",
+    "source_code": "latimes",
+    "content_item_type_code": "story",
+    "product_affiliate_code": "lanews"
+  }
+}

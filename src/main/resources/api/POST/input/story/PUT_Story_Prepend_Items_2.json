@@ -1,0 +1,14 @@
+{
+  "content_item": 
+{
+    "title": "Second Test Story for test automation. DO NOT delete/ update this content item.",
+    "content_item_state_code": "live",
+    "source_name": "Baltimore City Paper",
+    "source_code": "bcpnews",
+    "content_item_type_code": "story",
+    "product_affiliate_code": "bcpnews",
+    "original_thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTw36J4uwuabT7hHBNck-W46D11fsVGADW0qhr1OY4zqCl10pzoRUZS8h0",
+	"thumbnail_source_code": "bcpnews",
+	"alt_thumbnail_source_code": "bcpnews"
+  }
+}

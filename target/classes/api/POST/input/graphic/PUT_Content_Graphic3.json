@@ -1,0 +1,31 @@
+{
+  "content_item": 
+{
+    "title": "Test Graphic title for test automation. DO NOT update/ delete this content item",
+    "content_item_state_code": "live",
+    "source_name": "South Florida Sun-Sentinel",
+    "source_code": "sunsentinel",
+    "content_item_type_code": "graphic",
+    "product_affiliate_code": "lanews",
+    "notes": "This is the Content Properties notes added here",
+    "keywords": "Content, properties, keyword, HTML, page, graphic, automation, hyperlink",
+    "display_time": "2016-04-01T04:40:38Z",
+    "publish_time": "2016-04-01T04:40:38Z",
+    "expire_time": "2030-04-30T04:40:38Z",
+     "photo_upload":
+     {
+        "thumbnail":
+          {
+          "url":"http://p1.pichost.me/i/29/1523885.jpg"
+        },
+        "alt_thumbnail":
+         {
+          "url":"https://wallpaperscraft.com/image/nature_waterfall_summer_lake_trees_90400_3840x2160.jpg"
+         }
+      },
+    "filename": "https://static.pexels.com/photos/6555/nature-sunset-person-woman.jpg",
+    "caption": "This is a test caption used for the Graphic content item. DO NOT update/ delete this content item",
+    "credit": "Rishikesh S. Joshi"
+    }
+ }
+

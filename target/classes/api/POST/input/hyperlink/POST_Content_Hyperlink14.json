@@ -1,0 +1,21 @@
+{
+  "content_item": 
+{
+    "title": "Test Hyperlink title for test automation. DO NOT update/ delete this content item",
+    "byline": "Rishikesh Joshi",
+    "content_item_state_code": "working",
+   "source_name": "Orlando Sentinel",
+    "source_code": "orlandosentinel",
+    "content_item_type_code": "hyperlink",
+    "product_affiliate_code": "hartnews",
+    "notes": "This is the Content Properties notes added here",
+    "keywords": "Content, properties, keyword, HTML, page, keyword, automation, hyperlink",
+   "publish_time": "2020-05-02T04:40:38Z",
+   "display_time": "2020-04-16T04:40:38Z",
+    "expire_time": "2020-12-31T04:40:38Z",
+    "original_thumbnail_url": "http://weneedfun.com/wp-content/uploads/2016/02/Nature-Water-Wallpapers-20.jpg", 
+    "thumbnail_source_code": "orlandosentinel",
+   "alt_thumbnail_source_code": "latimes", 
+    "url": "http://www.google.com"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "content_item": 
+{
+    "title": "Test Photograph title test automation. DO NOT update/ delete this content item",
+    "content_item_state_code": "live",
+    "source_name": "Los Angeles Times",
+    "source_code": "latimes",
+    "content_item_type_code": "photo",
+    "product_affiliate_code": "lanews",
+    "kicker_id": 2833, 
+    "seotitle": "This is the SEO Title for the Photograph",
+    "seodescription": "This is the SEO meta description added here",
+    "seo_redirect_url": "http://www.google.com",
+     "notes": "This is the Content Properties notes added here",
+     "canonical_url": "http://www.msn.com/en-in",
+     "keywords": "Content, properties, keyword, Blog, post, keyword, automation, story",
+     "seo_keyphrase": "This is the SEO keyword added for Blog post",
+     "display_time": "2016-03-18T04:40:38Z",
+     "publish_time": "2016-03-18T04:40:38Z",
+     "expire_time": "2016-03-31T04:40:38Z",
+     "filename": "https://static.pexels.com/photos/6555/nature-sunset-person-woman.jpg",
+     "caption": "This is a test image used in the Photograph content item for test automation. We have added a sample test photo to check if the posted content item is working through REST API or not. DO NOT update/ delete this content item", 
+     "thumbnail": "https://static.pexels.com/photos/6555/nature-sunset-person-woman.jpg", 
+      "alt_thumbnail": "http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg",
+     "credit": "Rishikesh S. Joshi",
+     "panoramic": true
+       
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "content_item": 
+{
+    "title": "Test Column for Content Services. DO NOT delete/ update this test content item.",
+    "content_item_state_code": "working",
+    "source_name": "South Florida Sun-Sentinel",
+    "source_code": "sunsentinel",
+    "content_item_type_code": "column",
+    "product_affiliate_code": "soflaent",
+    "thumbnail": "http://www.trbimg.tribstage.com/img-5773db9c/turbine/tca-abc2-news-good-morning-maryland-20160629",
+    "thumbnail_source_code": "redeye",
+    "alt_thumbnail": "http://www.trbimg.tribstage.com/img-5773db9c/turbine/tca-abc2-news-good-morning-maryland-20160629",
+    "alt_thumbnail_source_code": "redeye"
+
+}
+}

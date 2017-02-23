@@ -1,0 +1,17 @@
+{
+  "content_item": 
+{
+    "title": "Test Premium Video for test automation. DO NOT update/ delete this content item",
+    "content_item_state_code": "live",
+    "source_name": "SFL",
+    "source_code": "sfl",
+    "content_item_type_code": "premiumvideo",
+    "product_affiliate_code": "hrnews",
+    "short_description": "This is a test video added for test automation. DO NOT update/ delete this content item",
+    "classification": "Technology",
+    "original_video_url": "https://www.youtube.com/watch?v=cskYRDuZIes",
+   "original_thumbnail_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTw36J4uwuabT7hHBNck-W46D11fsVGADW0qhr1OY4zqCl10pzoRUZS8h0",
+	"thumbnail_source_code": "bcpnews",
+	"alt_thumbnail_source_code": "bcpnews"
+}
+}

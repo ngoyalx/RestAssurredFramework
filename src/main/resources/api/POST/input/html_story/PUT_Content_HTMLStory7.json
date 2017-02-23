@@ -1,0 +1,15 @@
+{
+  "content_item": 
+{
+    "title": "HTML Story for automation. DO NOT delete/ update this test content item.",
+    "content_item_state_code": "working",
+    "source_name": "Chicago Tribune",
+    "source_code": "chicagotribune",
+    "content_item_type_code": "htmlstory",
+    "product_affiliate_code": "chinews",
+      "custom_param_data": 
+     {
+        "test123": "001"
+     }
+ }
+}

@@ -1,0 +1,20 @@
+{
+  "content_item": 
+{
+    "title": "Test HTML Page Title for automation. DO NOT delete/ update this test content item.",
+    "content_item_state_code": "live",
+    "source_name": "Baltimore Sun",
+    "source_code": "baltimoresun",
+    "content_item_type_code": "htmlpage",
+    "product_affiliate_code": "balnews",
+    "custom_param_data": 
+     {
+        "test123": "001",
+        "canonical-override-url": "http://www.yahoo.com",
+       "enable-content-commenting": "false",
+        "test-custom-parameter": "HTML Page title added.",
+        "programmed-custom-param": "Custom param added here.",
+        "new-test-custom-parameter": "true"
+     }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "content_item": 
+   { 
+    "title": "Test Embedded Video for test automation. DO NOT delete/ update this content item",
+    "content_item_state_code": "live",
+    "source_name": "Los Angeles Times",
+    "source_code": "latimes",
+    "content_item_type_code": "embeddedvideo",
+    "product_affiliate_code": "lanews",
+    "caption": "Test caption written here for Embedded Video. DO NOT delete/ update this content item",
+    "embedded_video_provider_id": 4, 
+    "video_code": "xbnCmRPDx5s"
+   }
+ }

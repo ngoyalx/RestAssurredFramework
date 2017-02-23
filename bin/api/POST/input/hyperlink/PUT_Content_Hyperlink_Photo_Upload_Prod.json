@@ -1,0 +1,30 @@
+{
+  "content_item": 
+{
+    "title": "Test Hyperlink title for test automation. DO NOT update/ delete this content item",
+    "byline": "Rishikesh Joshi",
+    "content_item_state_code": "working",
+   "source_name": "Orlando Sentinel",
+    "source_code": "orlandosentinel",
+    "content_item_type_code": "hyperlink",
+    "product_affiliate_code": "hartnews",
+    "notes": "This is the Content Properties notes added here",
+    "keywords": "Content, properties, keyword, HTML, page, keyword, automation, hyperlink",
+   "publish_time": "2030-05-02T04:40:38Z",
+    "expire_time": "2030-05-31T04:40:38Z",
+   "photo_upload":
+     {
+        "thumbnail":
+          {
+          "url":"https://www.wallpapereast.com/static/images/6904658-3d-nature-wallpaper.jpg",
+          "source_code":"daily-press"
+        },
+        "alt_thumbnail":
+         {
+          "url":"https://www.wallpapereast.com/static/images/6904658-3d-nature-wallpaper.jpg",
+          "source_code":"daily-press"
+         }
+      },
+    "url": "https://www.google.com"
+  }
+}

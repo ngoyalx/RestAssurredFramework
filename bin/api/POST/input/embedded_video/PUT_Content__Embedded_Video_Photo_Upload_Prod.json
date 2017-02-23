@@ -1,0 +1,30 @@
+{
+  "content_item": 
+   { 
+    "title": "Test Embedded Video for test automation. DO NOT delete/ update this content item",
+    "content_item_state_code": "working",
+    "source_name": "Daily Press",
+    "source_code": "daily-press",
+    "content_item_type_code": "embeddedvideo",
+    "product_affiliate_code": "hrnews",
+     "publish_time": "2030-05-02T04:40:38Z",
+   "display_time": "2030-04-16T04:40:38Z",
+    "expire_time": "2030-05-31T04:40:38Z",
+    "caption": "Test caption written here for Embedded Video. DO NOT delete/ update this content item",
+    "credit": "Rishikesh S. Joshi",
+    "embedded_video_provider_id": 4, 
+    "video_code": "xbnCmRPDx5s",
+"seotitle": "This is the SEO Title for the Premium Video",
+    "seodescription": "This is the SEO meta description added here",
+    "seo_redirect_url": "https://www.google.com",
+     "notes": "This is the Content Properties notes added here for Premium Video",
+    "canonical_url": "Canonical URL: https://google.com/",
+    "keywords":  "Content, properties, keyword, sample, test, premium, video, videos",
+    "seo_keyphrase": "This is the SEO keyword added for premium video",
+   "thumbnail": "http://www.trbimg.com/img-585bf872/turbine/tsn-vsl-photo-gallery-2016-winter-concert-feat-008",
+    "thumbnail_source_code": "redeye",
+    "alt_thumbnail": "http://www.trbimg.com/img-585bf872/turbine/tsn-vsl-photo-gallery-2016-winter-concert-feat-008",
+    "alt_thumbnail_source_code": "redeye"
+
+   }
+ }

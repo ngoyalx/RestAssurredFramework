@@ -1,0 +1,16 @@
+{
+  "content_item": 
+{
+    "title": "Second Test Story for test automation. DO NOT delete/ update this content item.",
+    "content_item_state_code": "working",
+    "source_name": "Baltimore Sun",
+    "source_code": "baltimoresun",
+    "content_item_type_code": "story",
+    "product_affiliate_code": "hartnews",
+    "thumbnail": "http://www.trbimg.tribstage.com/img-53d11e8e/turbine/chi-photograph-for-regression-test-20140724/600",
+    "thumbnail_source_code": "ctnow",
+    "alt_thumbnail": "http://www.trbimg.tribstage.com/img-53d11e8e/turbine/chi-photograph-for-regression-test-20140724/600",
+    "alt_thumbnail_source_code": "ctnow"
+
+  }
+}

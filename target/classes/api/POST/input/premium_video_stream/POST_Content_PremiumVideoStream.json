@@ -1,0 +1,14 @@
+{
+  "content_item": 
+{
+    "title": "Test Premium Video Stream for test automation",
+    "content_item_state_code": "live",
+    "source_name": "Los Angeles Times",
+    "source_code": "latimes",
+    "content_item_type_code": "premiumvideostream",
+    "product_affiliate_code": "lanews",
+     "short_description": "This is the short description for the Premium Video Stream",
+     "economics": "FREE",
+     "credit": "The Test Columnist"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "content_item": 
+ {
+   "title": "Test Premium Video Playlist for test automation. DO NOT update/ delete this content item",
+   "content_item_state_code": "working",
+   "source_name": "The Morning Call",
+   "source_code": "morningcall",
+   "content_item_type_code": "premiumvideoplaylist",
+   "product_affiliate_code": "allnews",
+   "classification": "Technology",
+   "credit": "Rishikesh S. Joshi",
+   "publish_time": "2030-05-02T04:40:38Z",
+   "display_time": "2016-04-16T04:40:38Z",
+    "expire_time": "2030-05-31T04:40:38Z",
+   "seotitle": "This is the SEO Title for the Premium Video Playlist",
+    "seodescription": "This is the SEO meta description added here",
+    "seo_redirect_url": "http://www.google.com",
+     "notes": "This is the Content Properties notes added here for Premium Video Playlist",
+    "canonical_url": "http://www.yahoo.com/",
+    "keywords":  "Content, properties, keyword, sample, test, premium, video, playlist",
+    "seo_keyphrase": "This is the SEO keyword added for premium video playlist",
+   "thumbnail": "http://www.trbimg.tribstage.com/img-54ecda3f/turbine/chi-photograph-fot-lightbox-rodrigo-20150224/600",
+    "thumbnail_source_code": "sfl",
+    "alt_thumbnail": "http://www.trbimg.tribstage.com/img-54ecda3f/turbine/chi-photograph-fot-lightbox-rodrigo-20150224/600",
+    "alt_thumbnail_source_code": "daily-press"
+
+   }
+}{
+ "content_item": 
+ {
+   "title": "Test Premium Video Playlist for test automation. DO NOT update/ delete this content item",
+   "content_item_state_code": "working",
+   "source_name": "The Morning Call",
+   "source_code": "morningcall",
+   "content_item_type_code": "premiumvideoplaylist",
+   "product_affiliate_code": "allnews",
+   "classification": "Technology",
+   "credit": "Rishikesh S. Joshi",
+   "publish_time": "2030-05-02T04:40:38Z",
+   "display_time": "2016-04-16T04:40:38Z",
+    "expire_time": "2030-05-31T04:40:38Z",
+   "seotitle": "This is the SEO Title for the Premium Video Playlist",
+    "seodescription": "This is the SEO meta description added here",
+    "seo_redirect_url": "http://www.google.com",
+     "notes": "This is the Content Properties notes added here for Premium Video Playlist",
+    "canonical_url": "http://www.yahoo.com/",
+    "keywords":  "Content, properties, keyword, sample, test, premium, video, playlist",
+    "seo_keyphrase": "This is the SEO keyword added for premium video playlist",
+   "thumbnail": "http://www.trbimg.tribstage.com/img-54ecda3f/turbine/chi-photograph-fot-lightbox-rodrigo-20150224/600",
+    "thumbnail_source_code": "sfl",
+    "alt_thumbnail": "http://www.trbimg.tribstage.com/img-54ecda3f/turbine/chi-photograph-fot-lightbox-rodrigo-20150224/600",
+    "alt_thumbnail_source_code": "daily-press"
+
+   }
+}

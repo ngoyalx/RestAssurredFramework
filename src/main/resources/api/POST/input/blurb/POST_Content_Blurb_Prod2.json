@@ -1,0 +1,20 @@
+{
+  "content_item": 
+{
+    "title": "Test Blurb title for test automation. DO NOT update/ delete this content item",
+    "content_item_state_code": "working",
+    "source_name": "Baltimore Sun",
+    "source_code": "baltimoresun",
+    "content_item_type_code": "blurb",
+    "product_affiliate_code": "orlnews",
+    "body": "This is a test blurb body added here for test automation. DO NOT update/ delete this content item",
+    "notes": "This is the Content Properties notes added here",
+    "keywords": "Content, properties, keyword, HTML, page, keyword, automation, story",
+    "display_time": "2020-08-01T04:40:38Z",
+    "publish_time": "2020-08-01T04:40:38Z",
+    "expire_time": "2020-12-30T04:40:38Z",
+    "original_thumbnail_url": "https://www.tronc.com/tronc-logo.png", 
+    "thumbnail_source_code": "baltimoresun",
+    "alt_thumbnail_source_code": "baltimoresun" 
+   }
+}

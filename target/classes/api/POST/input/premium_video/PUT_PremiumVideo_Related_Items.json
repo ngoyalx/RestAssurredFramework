@@ -1,0 +1,27 @@
+       {
+  "content_item": 
+  { 
+   "title": "Test Premium Video for test automation. DO NOT update/ delete this content item",
+  "content_item_state_code": "working",
+   "source_name": "Baltimore Sun",
+   "source_code": "baltimoresun",
+   "content_item_type_code": "premiumvideo",
+   "product_affiliate_code": "balnews",
+   "original_video_url": "http://www.youtube.com/watch?v=i0Q3yk7KzYA",
+   "short_description": "This is a test video added for test automation. DO NOT update/ delete this content item",
+    "classification": "Technology",
+    "credit": "Rishikesh S. Joshi",
+    "seotitle": "This is the SEO Title for the Premium Video",
+    "seodescription": "This is the SEO meta description added here",
+    "seo_redirect_url": "http://www.google.com",
+     "notes": "This is the Content Properties notes added here for Premium Video",
+    "canonical_url": "http://google.com/",
+    "keywords":  "Content, properties, keyword, sample, test, premium, video, videos",
+    "seo_keyphrase": "This is the SEO keyword added for premium video",
+    "thumbnail": "http://www.trbimg.tribstage.com/img-54ae90e7/turbine/chi-photographmasthead-20150108/600",
+    "thumbnail_source_code": "ctnow",
+    "alt_thumbnail": "http://www.trbimg.tribstage.com/img-54ae90e7/turbine/chi-photographmasthead-20150108/600",
+    "alt_thumbnail_source_code": "ctnow"
+
+   }
+}

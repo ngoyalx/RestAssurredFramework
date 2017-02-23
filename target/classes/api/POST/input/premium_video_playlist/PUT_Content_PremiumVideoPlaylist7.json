@@ -1,0 +1,20 @@
+{
+  "content_item": 
+{
+    "title": "Test Premium Video Playlist for test automation.DO NOT delete/ update this test content item.",
+    "content_item_state_code": "working",
+    "source_name": "Los Angeles Times",
+    "source_code": "latimes",
+    "content_item_type_code": "premiumvideoplaylist",
+    "product_affiliate_code": "balnews",
+    "classification": "Technology",
+    "playlist_type": "EXPLICIT",
+   "custom_param_data": 
+     {
+        "enable-content-commenting": "false",
+        "metadata-robots": "noindex, nofollow",
+        "metadata-googlebot-news": "noindex",
+        "metadata-googlebot-news-genres": "Blog, Opinion, OpEd, PressRelease, UserGenerated, Satire"
+    }
+}
+}

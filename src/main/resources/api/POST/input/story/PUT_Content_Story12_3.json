@@ -1,0 +1,13 @@
+{
+  "content_item": 
+{
+    "title": "Third test story for test automation. DO NOT delete/ update this content item.",
+    "content_item_state_code": "live",
+    "source_name": "Los Angeles Times",
+    "source_code": "latimes",
+    "content_item_type_code": "story",
+    "product_affiliate_code": "lanews",
+    "original_thumbnail_url": "http://p1.pichost.me/i/29/1523885.jpg", 
+   "thumbnail_source_code": "latimes"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "content_item": 
+{
+    "title": "Test Photograph. DO NOT delete/ update this content item.",
+    "content_item_state_code": "live",
+    "source_code": "daily-press",
+    "source_name": "Daily Press",
+    "content_item_type_code": "photo",
+    "product_affiliate_code": "hrnews",
+    "filename": "http://www.gettyimages.in/gi-resources/images/Editorial-Images/Archive.jpg",
+    "thumbnail": "http://www.trbimg.tribstage.com/img-5773db9c/turbine/tca-abc2-news-good-morning-maryland-20160629",
+    "thumbnail_source_code": "latimes",
+    "alt_thumbnail": "http://www.trbimg.tribstage.com/img-5773db9c/turbine/tca-abc2-news-good-morning-maryland-20160629",
+    "alt_thumbnail_source_code": "chicagotribune"
+}
+}

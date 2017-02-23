@@ -1,0 +1,13 @@
+{
+  "content_item": 
+{
+    "title": "Second Test Story for test automation. DO NOT delete/ update this content item.",
+    "content_item_state_code": "live",
+    "source_name": "Chicago Tribune",
+    "source_code": "chicagotribune",
+    "content_item_type_code": "story",
+    "product_affiliate_code": "lanews",
+    "thumbnail": "http://www.wallpapereast.com/static/images/6904658-3d-nature-wallpaper.jpg", 
+   "alt_thumbnail": "http://www.wallpapereast.com/static/images/6904658-3d-nature-wallpaper.jpg"
+  }
+}
